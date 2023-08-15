@@ -29,16 +29,16 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5-6 August 2022"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "HacXmas | October 2023"
+  description: "This is a placeholder website for upcoming hackathon @ PDEU."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
+  name:        "HacXmas"
+  description: "This is a placeholder website for upcoming hackathon @ PDEU."
+  date:        "2nd October 2023"
+  location:    "P.D.E.U, Gandhinagar"
 
   trust_badge:
     year:   "2017"  # season year
